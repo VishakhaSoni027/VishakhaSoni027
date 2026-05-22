@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Vishakha Soni</h1>
 <h3 align="center">MSc IT Student | Cybersecurity Enthusiast | Future Security Analyst</h3>
 
 <img align="right" alt="Cyber Security" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3U0MXl2OHBrNmZ4MW8wdjN6cW1qOG9zZHBmYW9rdjI1N2VhZjNwZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
