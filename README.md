@@ -24,13 +24,22 @@ Currently interning at **Spectrics Solution**, where I'm gaining hands-on experi
 - **Data Tools:** Jupyter, Matplotlib, Seaborn
 - **Focus:** Algorithm Development, Data Science, AI Solutions
 
-## 🎯 Featured Projects
+## 📚 My Projects
 
-- **[tic_toe_game](https://github.com/VishakhaSoni027/tic_toe_game)** - An intelligent Tic Tac Toe game with excellent code quality and smart game logic. *Python*
+### Featured Projects
+
+| Project | Description | Language | Link |
+|---------|-------------|----------|------|
+| **tic_toe_game** | An intelligent Tic Tac Toe game with excellent code quality and smart game logic. Features outstanding design and best practices. | Python | [View Repo](https://github.com/VishakhaSoni027/tic_toe_game) |
+| **student_grade** | A student grading system that evaluates grades and determines pass/fail status. Built with core Python using conditional logic for intelligent grade evaluation. | Python | [View Repo](https://github.com/VishakhaSoni027/student_grade) |
+| **student_information** | Generates comprehensive student result reports. Demonstrates data management and reporting capabilities. | Python | [View Repo](https://github.com/VishakhaSoni027/student_information) |
+| **about_visha** | A personal template repository showcasing my profile and work. | - | [View Repo](https://github.com/VishakhaSoni027/about_visha) |
 
 ## 📊 GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishakhaSoni027&show_icons=true&theme=tokyonight)](https://github.com/VishakhaSoni027)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishakhaSoni027&layout=compact&theme=tokyonight)](https://github.com/VishakhaSoni027)
 
 ## 🎓 Current Work
 
@@ -38,6 +47,7 @@ Currently interning at **Spectrics Solution**, where I'm gaining hands-on experi
 - Developing machine learning solutions
 - Working on data pipelines and model training
 - Contributing to intelligent product features
+- Implementing best practices in code quality
 
 ## 🎯 My Philosophy
 
@@ -46,6 +56,7 @@ Currently interning at **Spectrics Solution**, where I'm gaining hands-on experi
 - 📊 Data-driven decision making
 - 🔬 Continuous experimentation and learning
 - 🚀 Turning insights into impactful solutions
+- 🏆 Maintaining excellent code quality standards
 
 ## 🌱 Currently Learning
 
@@ -53,11 +64,14 @@ Currently interning at **Spectrics Solution**, where I'm gaining hands-on experi
 - Large Language Models (LLMs)
 - MLOps & Model Deployment
 - Advanced Data Science techniques
+- Production-grade ML systems
 
 ## 🤝 Let's Connect
 
 - [GitHub](https://github.com/VishakhaSoni027)
 - [Email](mailto:vishakhasoni027@gmail.com)
+- [LinkedIn](#) *(Add your LinkedIn profile)*
+- [Portfolio](#) *(Add if you have one)*
 
 ---
 
